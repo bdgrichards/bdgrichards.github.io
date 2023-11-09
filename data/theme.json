@@ -33,8 +33,8 @@
     "font_family": {
       "primary": "Heebo:wght@400;600",
       "primary_type": "sans-serif",
-      "secondary": "DM Serif Display:wght@500;700",
-      "secondary_type": "serif"
+      "secondary": "Raleway:wght@500;800",
+      "secondary_type": "sans-serif"
     },
     "font_size": {
       "base": "16",
